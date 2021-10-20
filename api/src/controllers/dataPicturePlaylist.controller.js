@@ -19,7 +19,6 @@ const getPicture =  (request, response) => {
             );
         }
     })
-
 }
 
 const getPlaylist = async (request, response, next) => {
