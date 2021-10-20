@@ -2,6 +2,8 @@ import express from "express";
 import dotenv from "dotenv";
 import cors from "cors";
 import morgan from "morgan"
+import {connectToDatabase} from "./src/config/databaseConnection";
+import {dataPicturePlaylistRoute} from "./src/routes/dataPicturePlaylist.route";
 
 
 dotenv.config();
@@ -11,11 +13,12 @@ const app = express();
 
 
 app.use(morgan('dev'));
-app.use(cors({origin: 'http://localhost:3000'}));
+app.use(cors({}));
 
 
+app.use("/", dataPicturePlaylistRoute);
 
-
-app.listen(port,  () => {
+app.listen(port,  async () => {
+    await connectToDatabase()
     console.log(`Application started on URL http://localhost:${port}`);
 });
