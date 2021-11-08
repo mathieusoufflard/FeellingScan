@@ -3,12 +3,12 @@
 ## table des matières
 
 * [Description](#Description)
-* [Prérequi](#Prérequi Mac OS M1)
-* [Miniforge](#Instalation Miniforge)
-* [Python](#Instalation de jupyter et crée l’environnement)
-* [Jupyter](#Instalation de jupyter et crée l’environnement)
-* [infomation](#pour plus d'infomation)
-* [Démarrer](#Démarrer le projet)
+* [Prérequi](#Prérequi-Mac-OS-M1)
+* [Miniforge](#Instalation-Miniforge)
+* [Python](#Instalation-de-jupyter-et-crée-l’environnement)
+* [Jupyter](#Instalation-de-jupyter-et-crée-l’environnement)
+* [infomation](#pour-plus-d'infomation)
+* [Démarrer](#Démarrer-le-projet)
 
 ## Description
 
