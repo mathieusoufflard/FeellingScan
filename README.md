@@ -122,9 +122,11 @@ Scikit-Learn 0.24.2
 GPU is available
 ```
 ## pour plus d'infomation
+
 https://brew.sh/
 https://github.com/jeffheaton/t81_558_deep_learning/blob/master/install/tensorflow-install-mac-metal-jul-2021.ipynb
 https://www.youtube.com/watch?v=_CO-ND1FTOU
+https://www.labboite.fr/#!/projects/feelscan
 
 ## Démarrer le projet
 
