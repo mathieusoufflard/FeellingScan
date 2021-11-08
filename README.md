@@ -7,7 +7,7 @@
 * [Instalation Miniforge](#Instalation-Miniforge)
 * [Avoir la bonne version Python](#Avoir-la-bonne-verssion-Python)
 * [Instalation de jupyter et crée l’environnement](#Instalation-de-jupyter-et-crée-l’environnement)
-* .[Enregistrer l’environnement et tester](#Enregistrer-l’environnement-et-tester)
+* [Enregistrer l’environnement et tester](#Enregistrer-l’environnement-et-tester)
 * [pour plus d'infomation](#pour-plus-d'infomation)
 * [Démarrer le projet](#Démarrer-le-projet)
 
